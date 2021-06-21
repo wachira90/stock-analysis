@@ -1,2 +1,2 @@
-# stock-thai
-stock-thai
+# stock-analysis
+stock-analysis
